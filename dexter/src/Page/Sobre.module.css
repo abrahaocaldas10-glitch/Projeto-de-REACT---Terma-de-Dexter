@@ -1,0 +1,11 @@
+.sobre {
+  min-height: 450px;
+  background: linear-gradient(120deg, #9e0c31, #164b82);
+  color: rgb(5, 0, 0);
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.sobre h1 {
+  color: #1087e8;
+}

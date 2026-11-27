@@ -1,0 +1,18 @@
+
+.rodape {
+  background-color: #111;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  margin-top: 40px;
+}
+
+.rodape h3 {
+  color: #c62828;
+  font-size: 22px;
+}
+
+.rodape p {
+  font-size: 14px;
+  margin: 10px;
+}

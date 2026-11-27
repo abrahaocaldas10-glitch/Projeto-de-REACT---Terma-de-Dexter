@@ -1,0 +1,15 @@
+.personagens {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.personagens h1 {
+  color: #1976d2;
+  font-size: 35px;
+}
+
+.lista {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
